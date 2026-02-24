@@ -12,11 +12,11 @@ The inherent imaging properties of sensors result in two distinct differences be
 
 Network Architecture
 ---
-[fig.3.pdf](https://github.com/user-attachments/files/25522711/fig.3.pdf)
+<img width="3406" height="1457" alt="fig 3" src="https://github.com/user-attachments/assets/cda1b3d1-d249-4786-ba29-cbed7047ef9a" />
 
 Intra-modality Cross-scale Self-enhancement Module
 ---
-[fig.4.pdf](https://github.com/user-attachments/files/25522787/fig.4.pdf)
+<img width="1269" height="1672" alt="fig 4" src="https://github.com/user-attachments/assets/e879325f-e62e-47ae-bf1c-7253acdf3015" />
 
 Citation
 ===
