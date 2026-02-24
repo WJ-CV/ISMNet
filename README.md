@@ -16,7 +16,8 @@ Network Architecture
 
 Intra-modality Cross-scale Self-enhancement Module
 ---
-<img width="1500" height="1672" alt="fig 4" src="https://github.com/user-attachments/assets/e879325f-e62e-47ae-bf1c-7253acdf3015" />
+<img width="1269" height="1672" alt="fig 4" src="https://github.com/user-attachments/assets/c7aee824-ba0e-422d-9674-83371f102c9a" />
+
 
 Citation
 ===
